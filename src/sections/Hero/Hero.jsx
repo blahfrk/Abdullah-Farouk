@@ -9,7 +9,7 @@ import githubLight from "../../assets/github-light.svg";
 import githubDark from "../../assets/github-dark.svg";
 import linkedinLight from "../../assets/linkedin-light.svg";
 import linkedinDark from "../../assets/linkedin-dark.svg";
-import resume from "../../assets/Resume.pdf";
+import cv from "../../assets/cv.pdf";
 import { useTheme } from "../../common/ThemeContext";
 // motion
 import { motion } from "framer-motion";
@@ -73,7 +73,7 @@ function Hero() {
           With a passion for developing modern React web apps for commercial
           businesses.
         </p>
-        <a href={resume} download>
+        <a href={cv} download>
           <button className="hover">Resume</button>
         </a>
       </motion.div>
