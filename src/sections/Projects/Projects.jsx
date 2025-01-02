@@ -87,14 +87,6 @@ function Projects() {
           h3="Guess the Number"
           p="Simple Guessing App"
         />
-        <ProjectCard
-          src={foodRecipes}
-          firstTool={react}
-          secondTool={css}
-          link="https://foodapp-eight-phi.vercel.app/"
-          h3="FoodApp"
-          p="API Menu Recipes"
-        />
       </div>
     </motion.section>
   );
