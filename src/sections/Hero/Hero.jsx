@@ -70,8 +70,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+          Developing modern React websites for commercial businesses tailored to
+          client satisfaction.
         </p>
         <a href={cv} download>
           <button className="hover">Resume</button>
